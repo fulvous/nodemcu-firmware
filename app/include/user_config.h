@@ -22,7 +22,7 @@
 #define NODE_DEBUG
 #define COAP_DEBUG
 #else
-#define BIT_RATE_DEFAULT BIT_RATE_115200
+#define BIT_RATE_DEFAULT BIT_RATE_9600
 #endif /* DEVELOP_VERSION */
 
 
